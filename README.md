@@ -1,1 +1,0 @@
-# BC32E_LeNguyenTheKhoa_ES6_Buoi2
